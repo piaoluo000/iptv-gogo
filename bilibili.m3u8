@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1,又饿了小橙
 http://iptv-gogo-phi.vercel.app/bilibili/237979?platform=web&line=first&quality=10000
-#EXTINF:-1,又饿了小橙1
-http://iptv-gogo-phi.vercel.app/bilibili/237979?hotRank=0&session_id=dfb0a8fc0dd848a1dc05cbc9408b0cb8_8B21DA3E-8F08-41F7-8D67-5F623130F9A1&live_from=77002&visit_id=7rcqyqjdd5w0?platform=web&line=first&quality=10000
+#EXTINF:-1,阿纪米德
+http://iptv-gogo-phi.vercel.app/bilibili/764155?platform=web&line=first&quality=10000
+#EXTINF:-1,小禾苗苗__30号满月版
+http://iptv-gogo-phi.vercel.app/bilibili/1896548199?platform=web&line=first&quality=10000
+#EXTINF:-1,萧萧才没烦恼
+http://iptv-gogo-phi.vercel.app/bilibili/30749354?platform=web&line=first&quality=10000
