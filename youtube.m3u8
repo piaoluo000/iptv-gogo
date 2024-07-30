@@ -1,19 +1,37 @@
 #EXTM3U
-#EXTINF:-1,民视新闻
+#EXTINF:-1,tvg-name=民视新闻
 https://iptv-gogo-phi.vercel.appp/youtube/ylYJSBUgaMA?quality=1080
-#EXTINF:-1,中视新闻
+#EXTINF:-1,tvg-name=中视新闻
 https://iptv-gogo-phi.vercel.app/youtube/TCnaIE_SAtM?quality=1080
-#EXTINF:-1,台视新闻
+#EXTINF:-1,tvg-name=台视新闻
 https://iptv-gogo-phi.vercel.app/youtube/xL0ch83RAK8?quality=1080
-#EXTINF:-1,华视新闻
+#EXTINF:-1,tvg-name=华视新闻
 https://iptv-gogo-phi.vercel.app/youtube/wM0g8EoUZ_E?quality=1080
-#EXTINF:-1,中天新闻
+#EXTINF:-1,tvg-name=中天新闻
 https://iptv-gogo-phi.vercel.app/youtube/oIgbl7t0S_w?quality=1080
-#EXTINF:-1,东森新闻
+#EXTINF:-1,tvg-name=东森新闻
 https://iptv-gogo-phi.vercel.app/youtube/quwqlazU-c8?quality=1080
-#EXTINF:-1,三立新闻
+#EXTINF:-1,tvg-name=三立新闻
 https://iptv-gogo-phi.vercel.app/youtube/CKjSm5ZeehE?quality=1080
-#EXTINF:-1,寰宇新闻
+#EXTINF:-1,tvg-name=寰宇新闻
 https://iptv-gogo-phi.vercel.app/youtube/B7Zp3d6xXWw?quality=1080
-#EXTINF:-1,公视新闻
-https://iptv-gogo-phi.vercel.app/youtube/quwqlazU-c8?quality=1080
+#EXTINF:-1,tvg-name=LiveNOW from FOX
+https://iptv-gogo-phi.vercel.app/youtube/feEtrGRIgxw?quality=720
+#EXTINF:-1,tvg-name=MIRROR NOW
+https://iptv-gogo-phi.vercel.app/youtube/S1FUKqwhDzM?quality=1080
+#EXTINF:-1,tvg-name=TVB
+https://iptv-gogo-phi.vercel.app/youtube/vHbQf1O5RFo?quality=1080
+#EXTINF:-1,tvg-name=CRUX
+https://iptv-gogo-phi.vercel.app/youtube/HhceJKNkjg0?quality=1080
+#EXTINF:-1,tvg-name=ABC news
+https://iptv-gogo-phi.vercel.app/youtube/xIQOMjT67uc?quality=720
+#EXTINF:-1,tvg-name=Bloomberg Television
+https://iptv-gogo-phi.vercel.app/youtube/yOq8DhaMYw?quality=1080
+#EXTINF:-1,tvg-name=PBD Podcast
+https://iptv-gogo-phi.vercel.app/youtube/3OY71vniDRg?quality=1080
+#EXTINF:-1,tvg-name=TIMES NOW
+https://iptv-gogo-phi.vercel.app/youtube/3OY71vniDRg?quality=1080
+#EXTINF:-1,tvg-name=Hindustan Times
+https://iptv-gogo-phi.vercel.app/youtube/82-4WX1uNfA?quality=1080
+#EXTINF:-1,tvg-name=Glenn Beck
+https://iptv-gogo-phi.vercel.app/youtube/ZA8pxc3Gmzc?quality=720
